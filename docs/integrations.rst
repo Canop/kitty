@@ -14,35 +14,17 @@ Image and document viewers
 Powered by kitty's :doc:`graphics-protocol` there exist many tools for viewing
 images and other types of documents directly in your terminal, even over SSH.
 
-.. _tool_termpdf:
+.. _tool_broot:
 
-`termpdf.py <https://github.com/dsanson/termpdf.py>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A terminal PDF/DJVU/CBR viewer
-
-.. _tool_mdcat:
-
-`mdcat <https://github.com/lunaryorn/mdcat>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Display markdown files nicely formatted with images in the terminal
-
-.. _tool_ranger:
-
-`ranger <https://github.com/ranger/ranger>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+`broot <https://dystroy.org/broot>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 A terminal file manager, with previews of file contents powered by kitty's graphics protocol.
-
-.. _tool_nnn:
-
-`nnn <https://github.com/jarun/nnn/>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Another terminal file manager, with previews of file contents powered by kitty's graphics protocol.
 
 .. _tool_hunter:
 
 `hunter <https://github.com/rabite0/hunter>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Another terminal file manager, with previews of file contents powered by kitty's graphics protocol.
+A terminal file manager, with previews of file contents powered by kitty's graphics protocol.
 
 .. _tool_koneko:
 
@@ -50,26 +32,36 @@ Another terminal file manager, with previews of file contents powered by kitty's
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Browse images from the pixiv artist community directly in kitty.
 
-.. _tool_viu:
+.. _tool_mdcat:
 
-`viu <https://github.com/atanunq/viu>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-View images in the terminal, similar to kitty's icat.
+`mdcat <https://github.com/lunaryorn/mdcat>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Display markdown files nicely formatted with images in the terminal
 
 .. _tool_nb:
-
 
 `nb <https://github.com/xwmx/nb>`_
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 command line and local web note-taking, bookmarking, archiving, and
 knowledge base application that uses kitty's graphics protocol for images.
 
-.. _tool_w3m:
+.. _tool_nnn:
 
-`w3m <https://github.com/tats/w3m>`_
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-A text mode WWW browser that supports kitty's graphics protocol to display
-images.
+`nnn <https://github.com/jarun/nnn/>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Another terminal file manager, with previews of file contents powered by kitty's graphics protocol.
+
+.. _tool_ranger:
+
+`ranger <https://github.com/ranger/ranger>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A terminal file manager, with previews of file contents powered by kitty's graphics protocol.
+
+.. _tool_termpdf:
+
+`termpdf.py <https://github.com/dsanson/termpdf.py>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A terminal PDF/DJVU/CBR viewer
 
 .. _tool_timg:
 
@@ -79,6 +71,18 @@ A terminal image and video viewer, that displays static and animated
 images or plays videos. Fast multi-threaded loading, JPEG exif rotation,
 grid view and connecting to the webcam make it a versatile terminal utility.
 
+.. _tool_viu:
+
+`viu <https://github.com/atanunq/viu>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+View images in the terminal, similar to kitty's icat.
+
+.. _tool_w3m:
+
+`w3m <https://github.com/tats/w3m>`_
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+A text mode WWW browser that supports kitty's graphics protocol to display
+images.
 
 System and data visualisation tools
 ---------------------------------------
